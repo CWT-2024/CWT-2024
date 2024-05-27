@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Code With Tushar</h1>
 <h3 align="center">A passionate frontend developer from India -IT Diploma</h3>
 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1366242700&psig=AOvVaw0KoOcHKr8JoGnAOsTu7GxW&ust=1716905872880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiQ0vCCroYDFQAAAAAdAAAAABAE)">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1366242700&psig=AOvVaw0KoOcHKr8JoGnAOsTu7GxW&ust=1716905872880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiQ0vCCroYDFQAAAAAdAAAAABAE])">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cotukskd&label=Profile%20views&color=0e75b6&style=flat" alt="cotukskd" /> </p>
 
 - 💬 Ask me about **rathodtushar1442@gmail.com**
